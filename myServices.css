@@ -1,0 +1,25 @@
+/* Add your CSS code here */
+
+.display-1 {
+    -webkit-text-stroke: 1px #dee2e6;
+  }
+  
+  .text-primary {
+    color: #0d6efd;
+  }
+  
+  .text-white {
+    color: #fff;
+  }
+  
+  .btn-outline-primary {
+    color: #0d6efd;
+    border-color: #0d6efd;
+  }
+  
+  .btn-outline-primary:hover {
+    color: #fff;
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+  }
+  

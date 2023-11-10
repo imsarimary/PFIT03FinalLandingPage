@@ -1,0 +1,24 @@
+.image{
+    width: 50%;
+    height: 50%;
+    margin-top: 10%;
+    position: absolute;
+    right: 10%;
+}
+.image img{
+    height: 50%;
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    transform: translateX(-50%);
+    transition: bottom 1s, left 1s;
+}
+.image:hover .shape{
+    bottom: 40px;
+}
+img{
+    margin-top: -14%;
+}
+p{
+    margin-top: -13%;
+}
